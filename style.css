@@ -1,0 +1,37 @@
+* {
+    padding: 0;
+    margin: 0;
+    }
+    body{
+        font-family: Georgia, 'Times New Roman', Times, serif;
+        display: flex;
+        text-align: justify;
+        
+    
+        background: linear-gradient(90deg, rgb(112, 180, 236) 0%, rgb(96, 238, 167) 35%, rgb(238, 236, 138) 100%);
+     }
+     .form-inner{
+        text-align: center;
+     }
+    .content{
+        width: 300px;
+        height: 400px;
+        margin-left: 750px;
+     border-radius: 20px;
+    margin-top: 200px;
+    background-color: rgb(23, 53, 65) ;
+    padding: 50px;
+     text-align: center;
+        
+    }
+    .h2{
+        text-align: center;
+        margin-left: 100px;
+    }
+    .btn{
+        width: 100%;
+        border: none;
+        height: 30px;
+        border-radius: 50px;
+        background: linear-gradient(90deg, rgb(160, 156, 248) 0%, rgb(160, 219, 243) 35%, rgb(146, 233, 197) 100%);
+    }
